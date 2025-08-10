@@ -8,17 +8,16 @@ const MESSAGE = process.env.MESSAGE || `
 *SESSION GENERATED SUCCESSFULY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/policeduafatima/FATIMA-MD
+https://github.com/DRKAMRAN-MD/KAMRAN-MD
 
 *Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://wa.me/923155641171
 https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O
 
 
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/Duafatima
+https://youtube.com/Drkamran65
 
-*FATIMA-MD--WHATTSAPP-BOT* 🥀
+*KAMRAN-MD--WHATTSAPP-BOT* 🥀
 `;
 
 const { upload } = require('./mega');
